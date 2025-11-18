@@ -1,0 +1,27 @@
+{
+  "shared_secret": "dD2tzG3r/n8txXetTBATyjXkh7s=",
+  "identity_secret": "8hrZMsb9srcieQmDxa3wgTjXiDo=",
+  "device_id": "android:9efede4c-2d73-401b-8747-1b3e88b8ed70",
+  "revocation_code": "R17281",
+  "account_name": "novastrike777",
+  "Session": {
+    "AccessToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAxMV8yNkJDMjdEOV83OEMzMSIsICJzdWIiOiAiNzY1NjExOTk4ODU2Mzk3OTYiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NjMzMDY2MTQsICJuYmYiOiAxNzU0NTc4NjU0LCAiaWF0IjogMTc2MzIxODY1NCwgImp0aSI6ICIwMDEzXzI3M0VBRTJGXzQ5NkQ4IiwgIm9hdCI6IDE3NTQ1NTI0MjAsICJydF9leHAiOiAxNzcyOTM2MDI4LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiOTIuMTE1Ljc1LjQ5IiwgImlwX2NvbmZpcm1lciI6ICI5Mi4xMTUuNzUuNDkiIH0.keoz6p4XxnCkL-LGqqIFVesRZn0SAKt9aL_rMT-wqqjFujATpCHO4X4SuAskUr-KJ-Wk1h2wVUJvVevQ942rAQ",
+    "steamLoginSecure": "76561199885639796%7C%7CeyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAxMV8yNkJDMjdEOV83OEMzMSIsICJzdWIiOiAiNzY1NjExOTk4ODU2Mzk3OTYiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NjMzMDY2MTQsICJuYmYiOiAxNzU0NTc4NjU0LCAiaWF0IjogMTc2MzIxODY1NCwgImp0aSI6ICIwMDEzXzI3M0VBRTJGXzQ5NkQ4IiwgIm9hdCI6IDE3NTQ1NTI0MjAsICJydF9leHAiOiAxNzcyOTM2MDI4LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiOTIuMTE1Ljc1LjQ5IiwgImlwX2NvbmZpcm1lciI6ICI5Mi4xMTUuNzUuNDkiIH0.keoz6p4XxnCkL-LGqqIFVesRZn0SAKt9aL_rMT-wqqjFujATpCHO4X4SuAskUr-KJ-Wk1h2wVUJvVevQ942rAQ",
+    "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTg4NTYzOTc5NiIsICJhdWQiOiBbICJ3ZWIiLCAicmVuZXciLCAiZGVyaXZlIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NzI5MzYwMjgsICJuYmYiOiAxNzQ1OTEyNDIwLCAiaWF0IjogMTc1NDU1MjQyMCwgImp0aSI6ICIwMDExXzI2QkMyN0Q5Xzc4QzMxIiwgIm9hdCI6IDE3NTQ1NTI0MjAsICJwZXIiOiAxLCAiaXBfc3ViamVjdCI6ICI5Mi4xMTUuNzUuNDkiLCAiaXBfY29uZmlybWVyIjogIjkyLjExNS43NS40OSIgfQ.sDgPVkemvqg9Zc_BCA9AE_pk8iqhhuw6CTQkZaDsZ70ffTF4fZWeL3Kr2uTmNeLUrjrmE5B_Y8ulGiF_oC3MBA",
+    "SteamID": 76561199885639796,
+    "SessionID": "be9654bd4bfcb74bc0c45226"
+  },
+  "server_time": 1754552422,
+  "steamid": 76561199885639796,
+  "serial_number": "5986533673978107204",
+  "uri": "otpauth://totp/Steam:novastrike777?secret=OQ623TDN5P7H6LOFO6WUYEATZI26JB53&issuer=Steam",
+  "token_gid": "25a6bc27cb3e9a9",
+  "secret_1": "aIJGSayIMIxHiamyFierBX08Mdg=",
+  "Proxy": null,
+  "Group": null,
+  "Password": null,
+  "Credits": {
+    "OriginalAuthor": "Achies",
+    "BestOpenSourceMobileApp": "https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies"
+  }
+}

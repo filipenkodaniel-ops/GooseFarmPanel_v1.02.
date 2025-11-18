@@ -1,0 +1,27 @@
+{
+  "shared_secret": "M7LFECEYtSfV/sMbO5gWnBAkAZ4=",
+  "identity_secret": "ezy12Q+E3r5m45d3Rjtp808Naog=",
+  "device_id": "android:8c0ccfcc-e49e-4fcf-a165-dd585ee3ffcf",
+  "revocation_code": "R73559",
+  "account_name": "irina_zaitseva84",
+  "Session": {
+    "AccessToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAwNV8yNkYzOEE3OF84OTUzMiIsICJzdWIiOiAiNzY1NjExOTg3ODU0Nzg4NjgiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NTgzNzE0OTYsICJuYmYiOiAxNzQ5NjQzNTc2LCAiaWF0IjogMTc1ODI4MzU3NiwgImp0aSI6ICIwMDEwXzI2RjM4QTZDX0IwMzdEIiwgIm9hdCI6IDE3NTgyODM1NzYsICJydF9leHAiOiAxNzc2NTk0MzE2LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiOTIuMTE1Ljc1LjQ5IiwgImlwX2NvbmZpcm1lciI6ICI5Mi4xMTUuNzUuNDkiIH0.vridDWyFPe8_PpAvEmU8lTC9gkmnAjG0_loXMkPyw0x4doqBnaWhGhneO1zYR_OJYV5NYQXwQewvjnm3Ip2dCw",
+    "steamLoginSecure": "76561198785478868%7C%7CeyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAwNV8yNkYzOEE3OF84OTUzMiIsICJzdWIiOiAiNzY1NjExOTg3ODU0Nzg4NjgiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NTgzNzE0OTYsICJuYmYiOiAxNzQ5NjQzNTc2LCAiaWF0IjogMTc1ODI4MzU3NiwgImp0aSI6ICIwMDEwXzI2RjM4QTZDX0IwMzdEIiwgIm9hdCI6IDE3NTgyODM1NzYsICJydF9leHAiOiAxNzc2NTk0MzE2LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiOTIuMTE1Ljc1LjQ5IiwgImlwX2NvbmZpcm1lciI6ICI5Mi4xMTUuNzUuNDkiIH0.vridDWyFPe8_PpAvEmU8lTC9gkmnAjG0_loXMkPyw0x4doqBnaWhGhneO1zYR_OJYV5NYQXwQewvjnm3Ip2dCw",
+    "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5ODc4NTQ3ODg2OCIsICJhdWQiOiBbICJ3ZWIiLCAicmVuZXciLCAiZGVyaXZlIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NzY1OTQzMTYsICJuYmYiOiAxNzQ5NjQzNTc2LCAiaWF0IjogMTc1ODI4MzU3NiwgImp0aSI6ICIwMDA1XzI2RjM4QTc4Xzg5NTMyIiwgIm9hdCI6IDE3NTgyODM1NzYsICJwZXIiOiAxLCAiaXBfc3ViamVjdCI6ICI5Mi4xMTUuNzUuNDkiLCAiaXBfY29uZmlybWVyIjogIjkyLjExNS43NS40OSIgfQ.JPf3w6z2ektYXFW0eSv7lhD00FUgxUvtqiTMBbj1V4g5OSf1JIR8UAU8WeD_wd9M7xCPd2CtqK_VB0WGadlbBw",
+    "SteamID": 76561198785478868,
+    "SessionID": "7c241903b9b935c91e5a2502"
+  },
+  "server_time": 1758283577,
+  "steamid": 76561198785478868,
+  "serial_number": "2601579329346139121",
+  "uri": "otpauth://totp/Steam:irinazaitseva84?secret=GOZMKEBBDC2SPVP6YMNTXGAWTQICIAM6&issuer=Steam",
+  "token_gid": "6a66f38a44ef713",
+  "secret_1": "iwfUj1WKfzQe+ldqhSiJysqPN2E=",
+  "Proxy": null,
+  "Group": null,
+  "Password": null,
+  "Credits": {
+    "OriginalAuthor": "Achies",
+    "BestOpenSourceMobileApp": "https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies"
+  }
+}

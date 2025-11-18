@@ -1,0 +1,27 @@
+{
+  "shared_secret": "fO2szSLKKDnaKoIvYqFMoHlu1aA=",
+  "identity_secret": "FbXj30hB5x2IA9HsIyMuEIp5/UQ=",
+  "device_id": "android:a0a960f2-680b-4aa0-b707-ea90cca07b3c",
+  "revocation_code": "R13704",
+  "account_name": "battlezone_dan",
+  "Session": {
+    "AccessToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAwNV8yNkIyRUNBN19GMjgwRCIsICJzdWIiOiAiNzY1NjExOTk4ODQ1MzQ5NTAiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NjMzMDUyNzYsICJuYmYiOiAxNzU0NTc3MzQ5LCAiaWF0IjogMTc2MzIxNzM0OSwgImp0aSI6ICIwMDE3XzI3M0VBRTMwXzQ1NUEyIiwgIm9hdCI6IDE3NTQxMzE0MDksICJydF9leHAiOiAxNzcyMTkwMDkxLCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiOTIuMTE1Ljc1LjQ5IiwgImlwX2NvbmZpcm1lciI6ICI5Mi4xMTUuNzUuNDkiIH0.D4rSsicL1Q6-h5DEVRHksHyGaJgsNehaPfFrfv670ajEIsrVwsASOIA4pV7wy3nhGpRieBh6ps8aK63GLMyuAQ",
+    "steamLoginSecure": "76561199884534950%7C%7CeyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAwNV8yNkIyRUNBN19GMjgwRCIsICJzdWIiOiAiNzY1NjExOTk4ODQ1MzQ5NTAiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NjMzMDUyNzYsICJuYmYiOiAxNzU0NTc3MzQ5LCAiaWF0IjogMTc2MzIxNzM0OSwgImp0aSI6ICIwMDE3XzI3M0VBRTMwXzQ1NUEyIiwgIm9hdCI6IDE3NTQxMzE0MDksICJydF9leHAiOiAxNzcyMTkwMDkxLCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiOTIuMTE1Ljc1LjQ5IiwgImlwX2NvbmZpcm1lciI6ICI5Mi4xMTUuNzUuNDkiIH0.D4rSsicL1Q6-h5DEVRHksHyGaJgsNehaPfFrfv670ajEIsrVwsASOIA4pV7wy3nhGpRieBh6ps8aK63GLMyuAQ",
+    "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTg4NDUzNDk1MCIsICJhdWQiOiBbICJ3ZWIiLCAicmVuZXciLCAiZGVyaXZlIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3NzIxOTAwOTEsICJuYmYiOiAxNzQ1NDkxNDA5LCAiaWF0IjogMTc1NDEzMTQwOSwgImp0aSI6ICIwMDA1XzI2QjJFQ0E3X0YyODBEIiwgIm9hdCI6IDE3NTQxMzE0MDksICJwZXIiOiAxLCAiaXBfc3ViamVjdCI6ICI5Mi4xMTUuNzUuNDkiLCAiaXBfY29uZmlybWVyIjogIjkyLjExNS43NS40OSIgfQ.VTxdCobO7iagEnymjH7_2C91VWha4GYRnO4CGRN7RpIFEbwSEbPaRwgM7jRGkAIcODPkOCWhJj1y57xc74i9Cw",
+    "SteamID": 76561199884534950,
+    "SessionID": "b15dad348bd975c7672355cb"
+  },
+  "server_time": 1754131412,
+  "steamid": 76561199884534950,
+  "serial_number": "10942095383581697473",
+  "uri": "otpauth://totp/Steam:battlezonedan?secret=PTW2ZTJCZIUDTWRKQIXWFIKMUB4W5VNA&issuer=Steam",
+  "token_gid": "2426b2ec7b5b1f9",
+  "secret_1": "3OgKPrTzA2t5D9pDmYBE1scvPqw=",
+  "Proxy": null,
+  "Group": null,
+  "Password": null,
+  "Credits": {
+    "OriginalAuthor": "Achies",
+    "BestOpenSourceMobileApp": "https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies"
+  }
+}
